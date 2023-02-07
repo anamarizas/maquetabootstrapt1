@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: darkcyan;
+}
+.menu{
+    background-color: aliceblue;
+    text-align: center;
+}
+.slider{
+    background-color: lightblue;
+    height: 10rem;
+    text-align:center
+}
+.amarillo{
+    background-color: lightseagreen;
+    height: 10rem;
+    text-align:center
+}
+.azul{
+    background-color: lightgray;
+    height: 10rem;
+    text-align:center
+}
+.rojo{
+    background-color: lightseagreen;
+    height: 10rem;
+    text-align:center
+}
+.gris{
+    background-color: gray;
+    height: 10rem;
+    text-align:center
+}
+.grisosc{
+    background-color: darkgrey;
+    height: 10rem;
+    text-align:center
+}
+.hola{
+    background-color: aqua;
+    height: 10rem;
+    text-align:center
+}
